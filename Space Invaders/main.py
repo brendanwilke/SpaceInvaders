@@ -153,7 +153,7 @@ def main():
 
 	# Game variables
 	run = True
-	FPS = 60;
+	FPS = 60
 	level = 0
 	lives = 5
 	clock = pygame.time.Clock()
